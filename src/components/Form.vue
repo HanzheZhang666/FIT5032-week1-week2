@@ -7,7 +7,7 @@
                     <div class="row mb-3">
                         <div class="col-sm-6">
                           <label for="username" class="form-label">Username:</label>
-                          <input type="text" id="username" class="form-control" v-model="formData.username"/>
+                          <input type="text" id="username" class="form-control"  v-model="formData.username"/>
                         </div>
                         <div class="col-sm-6">
                           <label for="password" class="form-label">Password:</label>
